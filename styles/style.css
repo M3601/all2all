@@ -229,8 +229,8 @@ input[type="checkbox"]::before {
   top: 2px;
   left: 2px;
   border-radius: 1.5rem;
-  -webkit-transition: all 0.3s cubic-bezier(0.17, 0.67, 0.47, 1.44);
-  transition: all 0.3s cubic-bezier(0.17, 0.67, 0.47, 1.44);
+  -webkit-transition: all 0.3s cubic-bezier(0.56, -0.93, 0.61, 2.02);
+  transition: all 0.3s cubic-bezier(0.56, -0.93, 0.61, 2.02);
 }
 
 input[type="checkbox"]::after {

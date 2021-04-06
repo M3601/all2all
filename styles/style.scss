@@ -145,7 +145,8 @@ input[type="checkbox"] {
     top: $off / 2;
     left: $off / 2;
     border-radius: $h;
-    transition: all 0.3s cubic-bezier(0.17, 0.67, 0.47, 1.44);
+    // transition: all 0.3s cubic-bezier(0.17, 0.67, 0.47, 1.44);
+    transition: all 0.3s cubic-bezier(0.56, -0.93, 0.61, 2.02);
   }
   &::after {
     display: flex;
